@@ -1,4 +1,4 @@
-# Nwjs32
+# nw.js_w32.msi
 nwjs win 32-bit package 
 
 Please see details in
