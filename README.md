@@ -1,4 +1,5 @@
 # Nwjs32
+nwjs win 32-bit package 
 Please see details in
 https://github.com/nwjs/nw.js
 
