@@ -12,3 +12,7 @@ Thanks for nw.js
 This package include ffmpegsumo.dll 41.02272.76 from google chrome
 
 nwjs_w32.aip file of Advanced Installer project  should be adjusted by yourself!! 
+
+1. package mis installer will link .nw file and its icon in registry deailed see as aip project file
+2. append path environment variable for conveninent use.
+3. installation location in the program files/nwjs 
